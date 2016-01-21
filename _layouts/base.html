@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Las Palmas</title>
+    <meta name="description" content="Adriaan is going to Las Palmas, what can you learn from that?">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/style/app.css">
+    <link rel="icon" type="image/png" href="/images/blue-sun.png">
+  </head>
+  <body>
+    <div class="full-height">
+      <header>
+        <div>
+          <h1>Las Palmas</h1>
+        </div>
+      </header>
+      <nav>
+        <div>
+          <ul>
+            <li {% if page.name == 'index.md' %}class="active"{% endif %}>
+              <a href="/">Home</a>
+            </li>
+            <li {% if page.name == 'visitors.md' %}class="active"{% endif %}>
+              <a href="/visitors">Tips for visitors</a>
+            </li>
+            <li {% if page.name == 'movers.md' %}class="active"{% endif %}>
+              <a href="/movers">Tips for movers</a>
+            </li>
+            <li {% if page.name == 'about.md' %}class="active"{% endif %}>
+              <a href="/about">About me</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      <a class="ribbon" target="_blank" href="https://github.com/harianus/laspalmas.adriaan.io/edit/gh-pages/index.html">Improve my grammar on GitHub</a>
+
+      <main>
+        <h2>{{ page.title }}</h2>
+
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>

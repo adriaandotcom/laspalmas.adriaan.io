@@ -1,0 +1,16 @@
+title:
+  'Las Palmas Tips'
+description:
+  ''
+author:
+  name: 'Adriaan van Rossum'
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: base
+
+gems:
+  - jemoji

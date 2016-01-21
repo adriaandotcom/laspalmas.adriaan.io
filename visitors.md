@@ -1,0 +1,42 @@
+---
+title: Who is visiting
+---
+
+Because Las Palmas is quite popular there are some people visiting. That is great of course, but for you it can be handy to see when you want to be there.
+
+<ul class="visitors"></ul>
+
+<p class="visitors-last-updated"></p>
+
+![Sunset that did not happen](/images/no-sunset.jpg)
+
+<script type="text/javascript">
+  function formatDate(date) {
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+    return date.getDate() + ' ' + months[date.getMonth()] + ' ' + date.getFullYear();
+  }
+
+  var request = new XMLHttpRequest();
+
+  request.open('GET', 'https://www.googleapis.com/calendar/v3/calendars/ambccq4fdl3tmh24sjmm3jos7k@group.calendar.google.com/events?key=AIzaSyBopySRup3TQ-A7gAQCidyXJnUWP_peQiE', true);
+
+  request.onload = function() {
+    if (request.status >= 200 && request.status < 400) {
+      // Success!
+      var data = JSON.parse(request.responseText);
+
+      Array.prototype.forEach.call(data.items, function(el, i){
+        var item = document.createElement('li');
+        item.textContent = el.summary + ' (' + formatDate(new Date(el.start.date)) + ' - ' + formatDate(new Date(el.end.date)) + ')';
+        console.log(el);
+        document.querySelector('ul.visitors').appendChild(item);
+      });
+
+      document.querySelector('.visitors-last-updated').textContent = 'This if automatically pulled out of my calendar and I last changed it at ' + formatDate(new Date(data.updated)) + '.';
+    } else {
+      // We reached our target server, but it returned an error
+    }
+  };
+
+  request.send();
+</script>
