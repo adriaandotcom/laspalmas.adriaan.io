@@ -27,6 +27,7 @@ header {
   width: 100%;
   background-color: $main-color;
   text-align: center;
+  border-bottom: 6px double white;
 
   div {
     @extend %page-blocks;
