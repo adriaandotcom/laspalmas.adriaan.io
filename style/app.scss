@@ -43,6 +43,13 @@ header {
     @media(max-width: 500px) {
       bottom: -5px;
     }
+    
+    a {
+      color: white;
+      &:hover {
+        text-decoration: none;
+      }
+    }
   }
 }
 
