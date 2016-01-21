@@ -1,7 +1,6 @@
 ---
+title: Adriaan is moving from Amsterdam to Las Palmas
 ---
-
-## Adriaan is moving from Amsterdam to Las Palmas
 
 Here are some tips you probably can use when [visiting](/visitors) or [moving](/movers) to Las Palmas.
 There are a lot reasons to go to this nice Island, like the temperature, distance to the Netherlands, the nice beaches, your great friend is living there, you want to see the mountains or you just want to escape your current environment.
