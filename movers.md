@@ -28,7 +28,7 @@ I just copy pasted the pinned post of the *Gran Canaria Digital Nomads*-group:
 * [Hiking](https://www.facebook.com/groups/201877786658754/permalink/487788338067696/?comment_id=487873871392476&reply_comment_id=487896531390210&notif_t=group_comment)
 
 ### Spanish language
-There is a [Facebook-group called Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate. 
+There is a Facebook-group called [Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate. 
 
 ## Moving
 Here are some tips when you decided to move to Gran Canaria.
