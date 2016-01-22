@@ -5,6 +5,8 @@ title: Planning to move to Las Palmas?
 You are probably looking around on the internet to find out if Gran Ganaria of Las Palmas is a great place to move to.
 I'm of course a little biased because I live there, but here are my reasons why it is great.
 
+## Community
+
 There is an [active community on Facebook](https://www.facebook.com/groups/201877786658754/) where you can ask a lot of questions and there you can find a lot of answers to already asked questions.
 
 I just copy pasted the pinned post of the *Gran Canaria Digital Nomads*-group:
@@ -25,7 +27,8 @@ I just copy pasted the pinned post of the *Gran Canaria Digital Nomads*-group:
 * [Send packages](https://www.facebook.com/groups/201877786658754/permalink/399804570199407/)
 * [Hiking](https://www.facebook.com/groups/201877786658754/permalink/487788338067696/?comment_id=487873871392476&reply_comment_id=487896531390210&notif_t=group_comment)
 
-More to come...
+### Spanish language
+There is a [Facebook-group called Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate. 
 
 ## Moving
 Here are some tips when you decided to move to Gran Canaria.
