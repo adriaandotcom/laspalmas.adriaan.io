@@ -30,7 +30,7 @@ I just copy pasted the pinned post of the [*Gran Canaria Digital Nomads*-group](
 ### Spanish language
 There is a Facebook-group called [Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate.
 
-There is also the [Michel Thomas](http://www.michelthomas.com/) Spanish lessons. You can download them via their shop (but it is quite expensive) or just steal it from a torrent website.
+There is also the [Michel Thomas](http://www.michelthomas.com/) Spanish lessons. You can download them via their shop (but it is quite expensive) or just steal it from a torrent website. The learning happens via listening sessions of a total of 8 hours. After that you can communicate pretty well in Spanish.
 
 ## Moving
 Here are some tips when you decided to move to Gran Canaria.
