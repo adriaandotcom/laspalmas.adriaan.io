@@ -28,7 +28,7 @@ I just copy pasted the pinned post of the [*Gran Canaria Digital Nomads*-group](
 * [Hiking](https://www.facebook.com/groups/201877786658754/permalink/487788338067696/?comment_id=487873871392476&reply_comment_id=487896531390210&notif_t=group_comment)
 
 ### Spanish language
-There is a Facebook-group called [Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate. 
+There is a Facebook-group called [Multicultural language exchange - Las Palmas de Gran Canaria](https://www.facebook.com/groups/122339838104153/). If you want to learn your Spanish, join this group. They have about 2 meetings a week and everyone can participate.
 
 ## Moving
 Here are some tips when you decided to move to Gran Canaria.
@@ -40,6 +40,9 @@ There are a lot of websites, but I got these from the locals.
 * [idealista.com](http://www.idealista.com)
 * [enalquiler.com](http://www.enalquiler.com) (I like this one)
 * [vibbo.com/pisos/](http://www.vibbo.com/pisos/) (was [segundamano.es](http://www.segundamano.es))
+
+### Stay connected
+There a nice [deal of vodafone](http://www.vodafone.es/tienda/particulares/es/catalogo/ficha/prepago/movil/tarjeta/sim_vodafone_internacional_smartphone/) where you can have some international phonecalls. 60 minutes for 15 euro's. You can also try [worldsim](https://www.worldsim.com/international-sim-cards).
 
 ### Social security number
 
