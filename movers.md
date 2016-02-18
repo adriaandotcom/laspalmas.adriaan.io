@@ -48,7 +48,7 @@ There a nice [deal of vodafone](http://www.vodafone.es/tienda/particulares/es/ca
 
 ### Social security number
 
-If you want to live in Spain and have the privileges of the locals you will need a *NIE*.
+If you want to live in Spain and have the privileges of the locals you will need a *NIE*. [Download the form here](http://extranjeros.empleo.gob.es/es/ModelosSolicitudes/Mod_solicitudes2/), you can also download the English version and use that to fill in the official Spanish form.
 
 You can read more here (in Dutch):
 
