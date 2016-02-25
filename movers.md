@@ -3,7 +3,7 @@ title: Planning to move to Las Palmas?
 ---
 
 You are probably looking around on the internet to find out if Gran Ganaria of Las Palmas is a great place to move to.
-I'm of course a little biased because I live there, but here are my reasons why it is great.
+I'm of course a little biased because I've choosen to live there, but here are my reasons why I think it is great.
 
 ## Community
 
