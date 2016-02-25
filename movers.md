@@ -38,7 +38,7 @@ Here are some tips when you decided to move to Gran Canaria.
 ### Living
 There are a lot of websites, but I got these from the locals.
 
-* [idealista.com](http://www.idealista.com) (found my place with this one)
+* [idealista.com](http://www.idealista.com) (found [my place](/my-place) with this one)
 * [enalquiler.com](http://www.enalquiler.com) (I like this one)
 * [pisos.com](http://www.pisos.com) (did not get a lot of responses here)
 * [vibbo.com/pisos/](http://www.vibbo.com/pisos/) (was [segundamano.es](http://www.segundamano.es))
