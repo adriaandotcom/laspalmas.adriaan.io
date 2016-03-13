@@ -4,6 +4,7 @@ title: Before I go
 
 I just want to write down what my expectations are before moving to Las Palmas. There are people curious why I go there, so I want to elloborate a little. I will comunicate in English because the broader audience, but it is not my native language so feel free to correct my grammer with the top right button.
 
+No time to read this now? <a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io/2016/03/13/before-i-go.html"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a> or leave your email to get the next blog post in your inbox.
 
 ## Why am I leaving?
 
@@ -11,4 +12,4 @@ First of all, I'm not going there to find a great new future. I'm not unhappy ho
 
 That is were I started looking for other opportunities. For a long time I had this idea to work remotely. Maybe some nice beach closeby and some interresting people around you.
 
-<a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io/2016/03/13/before-i-go.html"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a>
+
