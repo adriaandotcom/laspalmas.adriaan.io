@@ -10,14 +10,13 @@ defaults:
     scope:
       path: ''
     values:
-      layout: base
-      permalink: date
+      layout: 'base'
   -
     scope:
-      path: blog
-      type: posts
+      path: 'blog'
+      type: 'posts'
     values:
-      layout: posts
+      layout: 'posts'
       permalink: '/:title/'
 
 gems:
