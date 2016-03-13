@@ -11,6 +11,12 @@ defaults:
       path: ''
     values:
       layout: base
+  -
+    scope:
+      path: _posts
+      type: posts
+    values:
+      layout: posts
 
 gems:
   - jemoji
