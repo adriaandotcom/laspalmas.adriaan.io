@@ -7,13 +7,8 @@ There are a lot reasons to go to this nice Island, like the temperature, distanc
 
 ### Blog
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Coming...
+
 
 ### Why Las Palmas?
 
