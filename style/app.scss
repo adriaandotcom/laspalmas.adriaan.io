@@ -110,18 +110,6 @@ h1, h2 {
   margin: 0;
 }
 
-h1 {
-  text-transform: lowercase;
-  font-size: 95px;
-  font-weight: bold;
-  letter-spacing: -2px;
-  color: #FFAA51;
-
-  @media(max-width: 500px) {
-    font-size: 60px;
-  }
-}
-
 h2 {
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
