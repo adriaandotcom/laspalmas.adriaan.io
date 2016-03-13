@@ -11,4 +11,4 @@ First of all, I'm not going there to find a great new future. I'm not unhappy ho
 
 That is were I started looking for other opportunities. For a long time I had this idea to work remotely. Maybe some nice beach closeby and some interresting people around you.
 
-<a href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io/2016/03/13/before-i-go.html">Save to Pocket</a>
+<a href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io/2016/03/13/before-i-go.html"><img src="/images/image.png" style="width: 20px; height: 20px; vertical-align: middle;" alt="Pocket icon">Save to Pocket</a>
