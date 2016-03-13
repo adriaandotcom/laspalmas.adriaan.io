@@ -16,8 +16,8 @@ defaults:
       path: 'blog'
       type: 'posts'
     values:
-      layout: 'posts'
-      permalink: '/:title/'
+      layout: 'base'
+      permalink: '/:title'
 
 gems:
   - jemoji
