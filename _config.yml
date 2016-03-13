@@ -13,7 +13,7 @@ defaults:
       layout: base
   -
     scope:
-      path: _posts
+      path: blog
       type: posts
     values:
       layout: posts
