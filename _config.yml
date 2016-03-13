@@ -11,14 +11,14 @@ defaults:
       path: ''
     values:
       layout: base
-      permalink: '/:title'
+      permalink: '/:title/'
   -
     scope:
       path: blog
       type: posts
     values:
       layout: posts
-      permalink: '/:title'
+      permalink: '/:title/'
 
 gems:
   - jemoji
