@@ -11,7 +11,7 @@ defaults:
       path: ''
     values:
       layout: base
-      permalink: '/:title/'
+      permalink: date
   -
     scope:
       path: blog
