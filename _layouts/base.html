@@ -5,7 +5,7 @@
     <meta name="description" content="Adriaan is going to Las Palmas, what can you learn from that?">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/style/app.css?time={{ site.time | slugify  }}">
+    <link rel="stylesheet" href="/style/app.css?time={{ site.time | date_to_xmlschema | slugify }}">
     <link rel="icon" type="image/png" href="/images/blue-sun.png">
   </head>
   <body>
