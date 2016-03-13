@@ -2,7 +2,7 @@
 title: Before I go
 ---
 
-I just want to write up what my expectations are before moving to Las Palmas. There are people curious why I go there, so I want to elloborate a little. I will comunicate in English because the broader audience, but it is not my native language so feel free to correct my grammer with the top right button.
+I just want to write down what my expectations are before moving to Las Palmas. There are people curious why I go there, so I want to elloborate a little. I will comunicate in English because the broader audience, but it is not my native language so feel free to correct my grammer with the top right button.
 
 
 ## Why am I leaving?
