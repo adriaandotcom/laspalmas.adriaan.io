@@ -236,5 +236,7 @@ input {
   
   &[type="submit"] {
     background: $main-color;
+    color: white;
+    cursor: pointer;
   }
 }
