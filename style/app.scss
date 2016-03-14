@@ -224,3 +224,17 @@ section.read-it-later {
     text-align: center;
   }
 }
+
+// Form
+input {
+  line-height: inherit;
+  font-size: inherit;
+  padding: 0 5px;
+  border-radius: 3px;
+  border: 1px solid white;
+  background: white;
+  
+  &[type="submit"] {
+    background: $main-color;
+  }
+}
