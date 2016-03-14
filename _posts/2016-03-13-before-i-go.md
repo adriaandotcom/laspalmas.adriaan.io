@@ -15,18 +15,19 @@ First of all, I'm not going there to find a great new future. I'm not unhappy ho
 
 There I started looking for other opportunities. For a long time I had this idea to work remotely. Maybe a place with some nice beach closeby and some interresting people around me. I was looking for a place which is kind of close (relatively cheap flights) and has a nice climate. I think the moment Las Palmas crossed my mind was when I was on a train from Harlem to Amsterdam *(thanks Jeroen & Marieke)*. I looked up the city on Wikipedia, Googled some pictures and did some research on their internet speed. They even had viber!
 
-On that moment I knew that I had to go there. No idea for how long (and I still don't know), but that was the plan. I also knew that this was not possible with my current job so I asked Christian to introduce me at my previous job. The Member Get Member Company (formerly Social Shop) had only two developers at that time. I know my wishes are not normal, but I you don't try you will never get extraordinary luxery, so I asked if I could work remotely and for just three days. They agreed and even gave me a golden MacBook. I'm very grateful to this campany and its founder Sander!
+On that moment I knew that I had to go there. No idea for how long (and I still don't know), but that was the plan. I also knew that this was not possible with my current job so I asked Christian to introduce me at my previous job. The Member Get Member Company (formerly Social Shop) had only two developers at that time. I know my wishes are not regular, but if you don't try you will never get extraordinary luxery, so I asked if I could work remotely from Las Palmas and for just three days a week. They agreed and even gave me a golden MacBook. I'm very grateful to this campany and its founder Sander!
 
+Via a lot of Facebooking I found a nice CoWorking space called CoWorkingC, it looks good, and probably is. That will give me an easy opportunity to meet new people and have a place where I can concentrate on my work.
 
+So the income is stable and I have a place to work, now it is time for to find a apartment. With a lot of Google Translate, aswering strange questions about my sexuality and contacting a lot of ads I [found a nice place](/my-place). The way housing agencies make money is the same as in The Netherlands, one month rent as the agency fee. It always hurts to pay so much for just a connection with the owner, but this agency did quite a lot (even got me an internet connection) for their fee.
 
+## What do you expect?
 
+Do I know this? Maybe, the basics are there, a job, workingspace and an apartment. 
 
-Just before my move to Las Palmas I got the opportunity to see this great view.
+Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not ;-)
 
 ![](/images/image.png)
-
-The contrast will be high in temperature, but in beauty hopefully not ;-)
-
 
 
 
