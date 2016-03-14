@@ -21,11 +21,11 @@ On that moment I knew that I had to go there. No idea for how long (and I still 
 
 
 
-Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not ;-)
+Just before my move to Las Palmas I got the opportunity to see this great view.
 
 ![](/images/image.png)
 
-
+The contrast will be high in temperature, but in beauty hopefully not ;-)
 
 
 
