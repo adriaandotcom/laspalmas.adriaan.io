@@ -17,5 +17,5 @@ There I started looking for other opportunities. For a long time I had this idea
 
 <section class="read-it-later">
   <p>Enjoyed this post? Get the next one in your inbox!<br>
-  <input type="email" placeholder="Leave your email address" name="email"> <input type="submit" value="Enjoy!"></p>
+  <input type="email" placeholder="Your email address" name="email"> <input type="submit" value="Enjoy!"></p>
 </section>
