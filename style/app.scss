@@ -207,3 +207,19 @@ img.emoji {
     display: none;
   }
 }
+
+// Blog posts
+section.read-it-later {
+  width: 70%;
+  margin-left: auto;
+  background-color: rgba($main-color, 0.25);
+  padding: 20px;
+  border-radius: 5px;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 60px;
+  
+  p {
+    margin: 0;
+  }
+}
