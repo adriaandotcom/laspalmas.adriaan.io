@@ -23,7 +23,7 @@ Via a lot of Facebooking I found a nice CoWorking space called CoWorkingC, it lo
 
 So the income is stable and I have a place to work, now it is time for to find a apartment. With a lot of Google Translate, aswering strange questions about my sexuality and contacting a lot of ads I [found a nice place](/my-place). The way housing agencies make money is the same as in The Netherlands, one month rent as the agency fee. It always hurts to pay so much for just a connection with the owner, but this agency did quite a lot (even got me an internet connection) for their fee.
 
-Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not ;-)
+Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not :smirk:
 
 <div><img src="/images/image.png"></div>
 
