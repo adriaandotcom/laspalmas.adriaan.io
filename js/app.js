@@ -11,7 +11,7 @@ if (newsLetterForm) {
   var total = (now - started) / 1000 / 60 / 60 / 24 + 10;
   var amount = Math.round(total);
   
-  amoundField.innerHTML = amount;
+  amoundField.innerText = amount;
 
   newsLetterForm.addEventListener('submit', function(event) {
   
