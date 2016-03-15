@@ -1,7 +1,5 @@
-title:
-  'Las Palmas Tips'
-description:
-  ''
+title: 'Las Palmas Tips'
+description: ''
 author:
   name: 'Adriaan van Rossum'
 
@@ -15,7 +13,7 @@ defaults:
       layout: 'base'
   -
     scope:
-      path: 'blog'
+      path: 'blogg'
       type: 'posts'
     values:
       layout: 'base'
