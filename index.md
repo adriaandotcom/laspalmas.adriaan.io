@@ -10,7 +10,7 @@ There are a lot reasons to go to this nice Island, like the temperature, distanc
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} ({{ post | jsonify }})</a>
+      <a href="{{ post.url }}">{{ post.title }} ({{ post.date | date_to_long_string }})</a>
     </li>
   {% endfor %}
 </ul>
