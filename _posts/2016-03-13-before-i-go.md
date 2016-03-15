@@ -32,7 +32,7 @@ Just before my move to Las Palmas I got the opportunity to see this great view. 
 
 
 
-<section class="read-it-later">
+<form class="newsletter">
   <p>Enjoyed this post? Get the next one in your inbox!<br>
   <input type="email" placeholder="Your email address" name="email"> <input type="submit" value="Enjoy!"></p>
-</section>
+</form>
