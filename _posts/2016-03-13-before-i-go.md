@@ -36,6 +36,6 @@ Just before my move to Las Palmas I got the opportunity to see this great view. 
   <p>Enjoyed this post? Get the next one in your inbox!</p>
   <p>
     <input type="email" placeholder="Your email address" name="email">
-    <input type="submit" value="Enjoy!">
+    <input type="submit" value="Amuse me!">
   </p>
 </form>
