@@ -2,8 +2,8 @@ title: 'Las Palmas Tips'
 description: ''
 author:
   name: 'Adriaan van Rossum'
-
 permalink: '/:title'
+timezone: 'Europe/Amsterdam'
 
 defaults:
   -
