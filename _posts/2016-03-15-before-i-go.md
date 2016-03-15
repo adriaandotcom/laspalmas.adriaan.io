@@ -25,9 +25,7 @@ So the income is stable and I have a place to work, now it is time for to find a
 
 Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not ;-)
 
-<div>
-  ![](/images/image.png)
-</div>
+<img src="/images/image.png">
 
 For the people who say "Wow, that you have the possibilities!", you are wrong! Everyone has those options, you can choose how you fill your life. And I truly believe there are people who can live fine by working at the same job for years in the same city as they were born, but please, everyone has the opportunities to do something else. So it is not great that I'm doing it, everyone can do it.
 
