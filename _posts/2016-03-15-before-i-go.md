@@ -10,9 +10,9 @@ I just want to write down why I am leaving before moving to Las Palmas. Some cur
 
 ## Why am I leaving?
 
-First of all, I'm not going there to find a great new future. I'm not unhappy how things are going in The Netherlands but I know there are some things that could be better. When I worked for GoldRepublic (on the project [nx'change](https://www.nxchange.com/)) in Amsterdam for a few months I realised that their company culture didn't fit my needs. It was a typical 9:00 till 18:00 job, five days a week. I do not know where the saying—9:00 till 17:00—is coming from, but I only see that at govermental positions. Anyway, the job itself was not bad and I got payed pretty well. But I thought, this could not be my life.
+First of all, I'm not going there to find a great new future. I'm not unhappy how things are going in The Netherlands but I know there are some things that could be better. When I worked for GoldRepublic (on the project [nx'change](https://www.nxchange.com/)) in Amsterdam for a few months I realised that their company culture didn't fit my needs. It was a typical 9:00 till 18:00 job, five days a week. I do not know where the saying—9:00 till 17:00—is coming from, but I only see those times at govermental positions. Anyway, the job itself was not bad and I got payed pretty well. But I thought, this I can't do for the next few years.
 
-There I started looking for other opportunities. For a long time I had this idea to work remotely. Maybe a place with some nice beach closeby and some interresting people around me. I was looking for a place which is kind of close (relatively cheap flights) and has a nice climate. I think the moment Las Palmas crossed my mind was when I was on a train from Harlem to Amsterdam *(thanks Jeroen & Marieke)*. I looked up the city on Wikipedia, Googled some pictures and did some research on their internet speed. They even had viber!
+At that moment I started looking for other opportunities. For a long time I had this idea to work remotely. Maybe a place with some nice beach closeby or some interresting people around me. I started looking for a place which is kind of close (relatively cheap flights) and has a nice climate. I think the moment Las Palmas crossed my mind was when I was on a train from Harlem to Amsterdam *(thanks Jeroen & Marieke)*. I looked up the city on Wikipedia, Googled some pictures and did some research on their internet speed. They even had viber!
 
 On that moment I knew that I had to go there. No idea for how long (and I still don't know), but that was the plan. I also knew that this was not possible with my current job so I asked Christian to introduce me at my previous job. The Member Get Member Company (formerly Social Shop) had only two developers at that time. I know my wishes are not regular, but if you don't try you will never get extraordinary luxery, so I asked if I could work remotely from Las Palmas and for just three days a week. They agreed and even gave me a golden MacBook. I'm very grateful to this campany and its founder Sander!
 
@@ -27,8 +27,6 @@ Do I know this? Maybe, the basics are there, a job, workingspace and an apartmen
 Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not ;-)
 
 ![](/images/image.png)
-
-
 
 
 <form class="newsletter">
