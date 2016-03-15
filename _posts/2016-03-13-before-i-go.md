@@ -38,5 +38,5 @@ Just before my move to Las Palmas I got the opportunity to see this great view. 
     <input type="email" placeholder="Your email address" name="email">
     <input type="submit" value="Amuse me!">
   </p>
-  <p class="response" style="display: none;">I will try, thanks!</p>
+  <p class="response" style="display: none;">I will try, thanks for believing in me!</p>
 </form>
