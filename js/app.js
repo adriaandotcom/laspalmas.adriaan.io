@@ -31,6 +31,10 @@ if (newsLetterForm) {
     var responseField = newsLetterForm.querySelector('.response');
     responseField.style.display = 'block';
     
+    // Increase the number of people responded
+    amount = amount + 1;
+    amoundField.innerText = amount;
+    
     // Reset email field
     email.value = '';
   })
