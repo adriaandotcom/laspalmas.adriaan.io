@@ -11,9 +11,10 @@ defaults:
       path: ''
     values:
       layout: 'base'
+      type: 'pages'
   -
     scope:
-      path: 'blogg'
+      path: 'blog'
       type: 'posts'
     values:
       layout: 'base'
