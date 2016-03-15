@@ -224,6 +224,10 @@ form.newsletter {
     margin: 0;
     text-align: center;
   }
+  
+  p + p {
+    margin-top: 10px;
+  }
 }
 
 // Form
