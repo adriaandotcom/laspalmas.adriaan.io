@@ -4,7 +4,7 @@ document.querySelector('form.newsletter').addEventListener('submit', function(ev
   event.preventDefault();
   
   // Get email
-  var email = document.querySelector('form.newsletter name["email"]').value;
+  var email = document.querySelector('form.newsletter input[name="email"]').value
   
   // Send newsletter email to myself
   var url = 'http://watiseropderadio.nl/tools/mail?subject=New+subscriber+Las+Palmas+blog:+' + email;
