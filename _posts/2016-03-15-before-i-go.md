@@ -31,7 +31,7 @@ For the people who say *"Wow, that you have the possibilities!"*, you are wrong!
 
 <form class="newsletter">
   <p>
-    Enjoyed this post?<br>
+    Did you also enjoy this post?<br>
     Get the next one in your inbox like the <span class="amount-of-people"></span> people before you did.
   </p>
   <p>
