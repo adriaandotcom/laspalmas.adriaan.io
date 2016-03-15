@@ -1,4 +1,5 @@
 ---
+featured_image: '/images/image.png'
 ---
 
 I just want to write down why I am leaving before moving to Las Palmas. Some curious people do want to know why I'm going there, so I want to elloborate a little. I will communicate in English because of the broader audience, but it is not my native language so feel free to correct my grammer with the top right button *(on GitHub)*.
