@@ -5,6 +5,7 @@ author:
 permalink: '/:title'
 timezone: 'Europe/Amsterdam'
 locale: 'en'
+logo: '/images/mountains.jpg'
 
 defaults:
   -
