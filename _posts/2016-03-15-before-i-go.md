@@ -30,7 +30,7 @@ Just before my move to Las Palmas I got the opportunity to see this great view. 
 For the people who say *"Wow, that you have the possibilities!"*, you are wrong! Everyone has those options, you can choose how you fill your life. I truly believe there **are** people who can live fine by working at the same job for some years in the same city as they were born, but please, everyone has the opportunities to do something else. So it is not great that I'm doing it, everyone can do it. I have the same respect for the people who can do the opposite.
 
 <form class="newsletter">
-  <p>Enjoyed this post? Get the next one in your inbox!</p>
+  <p>Enjoyed this post? Get the next one in your inbox! Just like the <span class="amount-of-people"></span> people before you did.</p>
   <p>
     <input type="email" placeholder="Your email address" name="email">
     <input type="submit" value="Amuse me!">
