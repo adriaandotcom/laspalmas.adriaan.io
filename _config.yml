@@ -5,6 +5,8 @@ description:
 author:
   name: 'Adriaan van Rossum'
 
+permalink: '/:title'
+
 defaults:
   -
     scope:
@@ -17,7 +19,7 @@ defaults:
       type: 'posts'
     values:
       layout: 'base'
-      permalink: '/:title'
+      category: blog
 
 gems:
   - jemoji
