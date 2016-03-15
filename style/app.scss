@@ -209,7 +209,8 @@ img.emoji {
 }
 
 // Blog posts
-section.read-it-later {
+section.read-it-later,
+form.newsletter {
   width: 70%;
   margin-left: auto;
   background-color: rgba($main-color, 0.25);
