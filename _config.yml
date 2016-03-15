@@ -4,6 +4,7 @@ author:
   name: 'Adriaan van Rossum'
 permalink: '/:title'
 timezone: 'Europe/Amsterdam'
+locale: 'en'
 
 defaults:
   -
