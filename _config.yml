@@ -19,7 +19,7 @@ defaults:
       path: 'blog'
       type: 'posts'
     values:
-      layout: 'base'
+      layout: 'posts'
       category: blog
 
 gems:
