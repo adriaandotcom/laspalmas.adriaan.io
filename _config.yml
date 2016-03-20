@@ -7,10 +7,6 @@ timezone: 'Europe/Amsterdam'
 locale: 'en'
 logo: '/images/mountains.jpg'
 
-collections:
-  - blog:
-      output: true
-
 defaults:
   -
     scope:
@@ -21,9 +17,9 @@ defaults:
   -
     scope:
       path: ''
-      type: 'post'
+      type: 'posts'
     values:
-      layout: 'posts'
+      layout: 'post'
       category: 'blog'
 
 gems:
