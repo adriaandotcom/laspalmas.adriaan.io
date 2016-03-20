@@ -35,7 +35,7 @@ For the people who say *"Wow, that you have the possibilities!"*, you are wrong!
     Get the next one in your inbox like the <span class="amount-of-people"></span> people before you did.
   </p>
   <p>
-    <input type="email" placeholder="Your email address" name="email">
+    <input type="email" placeholder="Your email address" name="email" required="required">
     <input type="submit" value="Amuse me!">
   </p>
   <p class="response" style="display: none;">I will try, thanks for believing in me!</p>
