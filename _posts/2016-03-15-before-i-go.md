@@ -1,4 +1,5 @@
 ---
+layout: posts
 featured_image: '/images/image.png'
 ---
 
