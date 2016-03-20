@@ -41,7 +41,7 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
         document.querySelector('ul.visitors').appendChild(item);
       });
 
-      document.querySelector('.visitors-last-updated').textContent = 'This is automatically pulled out of my calendar and I last changed it at ' + formatDate(new Date(data.updated)) + '.';
+      document.querySelector('.visitors-last-updated').textContent = 'This is automatically pulled out of my calendar and I last changed it on ' + formatDate(new Date(data.updated)) + '.';
     } else {
       // We reached our target server, but it returned an error
       document.querySelector('.visitors-last-updated').textContent = 'Something did go wrong, ask Adriaan for his schedule or try again.';
