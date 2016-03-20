@@ -16,7 +16,7 @@ defaults:
       type: 'pages'
   -
     scope:
-      path: 'blog'
+      path: ''
       type: 'post'
     values:
       layout: 'post'
