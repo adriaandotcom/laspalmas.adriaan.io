@@ -17,9 +17,9 @@ defaults:
   -
     scope:
       path: 'blog'
-      type: 'posts'
+      type: 'post'
     values:
-      layout: 'posts'
+      layout: 'post'
       category: blog
 
 gems:
