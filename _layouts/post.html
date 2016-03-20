@@ -8,7 +8,7 @@ layout: base
 
 <section class="read-it-later">
   <p>No time to read this now?<br>
-  <a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io{{ page.url }}"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a></p>
+  <a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url={{ 'https://laspalmas.adriaan.io' | cgi_escape }}{{ page.url | cgi_escape }}" target="_blank"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a></p>
 </section>
 
 {{ content | replace: page.excerpt, '' }}
