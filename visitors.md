@@ -26,14 +26,18 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
       var data = JSON.parse(request.responseText);
 
       var sorted = data.items.sort(function(key1, key2) {
-        if(key1.start.date < key2.start.date) return -1;
-        if(key1.start.date > key2.start.date) return 1;
+        var start1 = key1.start.date || key1.start.dateTime;
+        var start2 = key2.start.date || key2.start.dateTime;
+        if (start1 < start2) return -1;
+        if (start1 > start2) return 1;
         return 0;
       });
 
       Array.prototype.forEach.call(sorted, function(el, i) {
         var item = document.createElement('li');
-        item.textContent = el.summary + ' (' + formatDate(new Date(el.start.date)) + ' - ' + formatDate(new Date(el.end.date)) + ')';
+        var start = el.start.date || el.start.dateTime;
+        var end = el.end.date || el.end.dateTime;
+        item.textContent = el.summary + ' (' + formatDate(new Date(start)) + ' - ' + formatDate(new Date(end)) + ')';
         document.querySelector('ul.visitors').appendChild(item);
       });
 
