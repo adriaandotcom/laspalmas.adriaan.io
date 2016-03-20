@@ -2,12 +2,7 @@
 featured_image: '/images/image.png'
 ---
 
-I just want to write down why I am leaving before moving to Las Palmas. Some curious people do want to know why I'm going there, so I want to elloborate a little. I will communicate in English because of the broader audience, but it is not my native language so feel free to correct my grammer with the top right button *(on GitHub)*. 
-
-<section class="read-it-later">
-  <p>No time to read this now?<br>
-  <a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io/2016/03/13/before-i-go.html"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a></p>
-</section>
+I just want to write down why I am leaving before moving to Las Palmas. Some curious people do want to know why I'm going there, so I want to elloborate a little. I will communicate in English because of the broader audience, but it is not my native language so feel free to correct my grammer with the top right button *(on GitHub)*.
 
 ## Why am I leaving?
 
@@ -28,15 +23,3 @@ Just before my move to Las Palmas I got the opportunity to see this great view. 
 <div><img src="/images/image.png"></div>
 
 For the people who say *"Wow, that you have the possibilities!"*, you are wrong! Everyone has those options, you can choose how you fill your life. I truly believe there **are** people who can live fine by working at the same job for some years in the same city as they were born, but please, everyone has the opportunities to do something else. So it is not great that I'm doing it, everyone can do it. I have the same respect for the people who can do the opposite.
-
-<form class="newsletter">
-  <p>
-    Did you also enjoy this post?<br>
-    Get the next one in your inbox like the <span class="amount-of-people"></span> people before you did.
-  </p>
-  <p>
-    <input type="email" placeholder="Your email address" name="email" required="required">
-    <input type="submit" value="Amuse me!">
-  </p>
-  <p class="response" style="display: none;">I will try, thanks for believing in me!</p>
-</form>

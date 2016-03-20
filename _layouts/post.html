@@ -2,7 +2,25 @@
 layout: base
 ---
 
-<p>POST LAYOUT</p>
+<p class="meta">{{ page.date | date_to_long_string }} - {{ page.content | number_of_words }} words - {{ site.author.name }}</p>
 
-{{ content }}
+{{ page.excerpt }}
 
+<section class="read-it-later">
+  <p>No time to read this now?<br>
+  <a style="color: rgba(239, 64, 86, 0.9); line-height: 20px;" href="https://getpocket.com/edit?url=https://laspalmas.adriaan.io{{ page.url }}"><img src="/images/pocket-icon.png" style="width: 20px; height: 20px; vertical-align: middle; border: 0; margin: 0; padding: 0; padding-right: 5px;" alt="Pocket icon">Save to Pocket</a></p>
+</section>
+
+{{ content | replace: page.excerpt, '' }}
+
+<form class="newsletter">
+  <p>
+    Did you also enjoy this post?<br>
+    Get the next one in your inbox like the <span class="amount-of-people"></span> people before you did.
+  </p>
+  <p>
+    <input type="email" placeholder="Your email address" name="email" required="required">
+    <input type="submit" value="Amuse me!">
+  </p>
+  <p class="response" style="display: none;">I will try, thanks for believing in me!</p>
+</form>

@@ -44,12 +44,12 @@ header {
     font-size: 95px;
     font-weight: bold;
     letter-spacing: -2px;
-    
+
     @media (max-width: 500px) {
       bottom: -5px;
       font-size: 60px;
     }
-    
+
     a {
       color: white;
       &:hover {
@@ -219,15 +219,20 @@ form.newsletter {
   margin-right: auto;
   margin-top: 50px;
   margin-bottom: 60px;
-  
+
   p {
     margin: 0;
     text-align: center;
   }
-  
+
   p + p {
     margin-top: 10px;
   }
+}
+
+p.meta {
+  font-style: italic;
+  color: #868686;
 }
 
 // Form
@@ -238,7 +243,7 @@ input {
   border-radius: 3px;
   border: 1px solid white;
   background: white;
-  
+
   &[type="submit"] {
     background: $main-color;
     color: white;
