@@ -38,7 +38,7 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
         var start = el.start.date || el.start.dateTime;
         var end = el.end.date || el.end.dateTime;
         var summary = el.summary.split('(').join('<em>(').split(')').join(')</em>');
-        item.textContent = summary +
+        item.innerHTML = summary +
           ' <span class="dates">(' + formatDate(new Date(start)) + ' - ' + formatDate(new Date(end)) + ')</span>';
         document.querySelector('ul.visitors').appendChild(item);
       });
