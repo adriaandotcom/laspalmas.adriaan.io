@@ -22,7 +22,6 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
 
   request.onload = function() {
     if (request.status >= 200 && request.status < 400) {
-      // Success!
       var data = JSON.parse(request.responseText);
 
       var sorted = data.items.sort(function(key1, key2) {
@@ -37,9 +36,19 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
         var item = document.createElement('li');
         var start = el.start.date || el.start.dateTime;
         var end = el.end.date || el.end.dateTime;
+        
+        // Put <em> tags around the brackets
         var summary = el.summary.split('(').join('<em>(').split(')').join(')</em>');
-        item.innerHTML = summary +
-          ' <span class="dates">(' + formatDate(new Date(start)) + ' - ' + formatDate(new Date(end)) + ')</span>';
+        
+        // Show the dates
+        var startDateText = formatDate(new Date(start));
+        var endDateText = formatDate(new Date(end));
+        if (new Date(start).getMonth() === new Date(end).getMonth() ) {
+          startDateText = new Date(start).getDay();
+        }
+        
+        // Set html and update the DOM
+        item.innerHTML = summary + ' <span class="dates">(' + startDateText + ' - ' + endDateText + ')</span>';
         document.querySelector('ul.visitors').appendChild(item);
       });
 
