@@ -11,9 +11,16 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
 ![Sunset that did not happen](/images/no-sunset.jpg)
 
 <script type="text/javascript">
-  function formatDate(date) {
+  function formatDate(date, showMonth, showYear) {
+    if (typeof showMonth === 'undefined') showMonth = true;
+    if (typeof showYear === 'undefined') showYear = true;
+    
     var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    return date.getDate() + ' ' + months[date.getMonth()] + ' ' + date.getFullYear();
+    
+    var text = [date.getDate()];
+    if (showMonth) text.push(months[date.getMonth()]);
+    if (showYear) text.push(date.getFullYear());
+    return text.join(' ');
   }
 
   var request = new XMLHttpRequest();
