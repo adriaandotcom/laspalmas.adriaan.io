@@ -50,8 +50,13 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
         // Show the dates
         var startDateText = formatDate(new Date(start));
         var endDateText = formatDate(new Date(end));
-        if (new Date(start).getMonth() === new Date(end).getMonth() ) {
-          startDateText = new Date(start).getDay();
+        if (new Date(start).getYear() === new Date(end).getYear()) {
+          if (new Date(start).getMonth() === new Date(end).getMonth()) {
+            startDateText = formatDate(new Date(start), false, false);
+          }
+          else {
+            startDateText = formatDate(new Date(start), true, false);
+          }
         }
         
         // Set html and update the DOM
