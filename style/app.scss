@@ -254,3 +254,8 @@ input {
 span.dates {
   color: $main-color;
 }
+
+[title] {
+  cursor: help;
+  border-bottom: 1px dashed grey;
+}
