@@ -259,3 +259,8 @@ span.dates {
   cursor: help;
   border-bottom: 1px dashed grey;
 }
+
+ul.no-styling {
+  list-style-type: none;
+  padding: 0;
+}
