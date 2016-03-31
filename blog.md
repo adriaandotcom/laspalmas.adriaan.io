@@ -4,6 +4,8 @@ title: Blog posts
 
 The post I have written sorted by date (last post first).
 
+![Mountains of Gran Canaria](/images/mountains.jpg)
+
 <ul class="no-styling">
   {% for post in site.posts %}
     <li>
