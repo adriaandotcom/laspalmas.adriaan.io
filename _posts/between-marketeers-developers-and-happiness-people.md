@@ -2,6 +2,8 @@
 title: Between marketeers, developers and happiness people
 ---
 
-And some erasmus students, bloggers and creatives. The kind of people Las Palmas attracts are the people who can live abroad. No surprising news.  
+<!-- Audience: people from home, people who are interested in moving here -->
 
-For the people at home.: http://www.comfortzonecrusher.com
+And some Erasmus students, bloggers and other creatives. The kind of people Las Palmas attracts are the people who can live abroad. No surprising news whatsoever. 
+
+For the people at home: [comfortzonecrusher.com](http://www.comfortzonecrusher.com)
