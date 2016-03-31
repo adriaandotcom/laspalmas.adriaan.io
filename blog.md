@@ -7,8 +7,8 @@ The post I have written sorted by date (last post first).
 <ul class="no-styling">
   {% for post in site.posts %}
     <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})<br>
-      {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}">Read more...</a></p>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_long_string }})</h3>
+      <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}">Read more...</a></p>
     </li>
   {% endfor %}
 </ul>
