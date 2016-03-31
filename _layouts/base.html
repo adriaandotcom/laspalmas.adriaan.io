@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Las Palmas</title>
-    <meta name="description" content="Adriaan is going to Las Palmas, what can you learn from that?">
     <meta charset="utf-8" />
+    <title>Las Palmas</title>
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape_once }}{% else %}{{ site.description }}{% endif %}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/style/app.css?time={{ site.time | date_to_xmlschema | slugify }}">
     <link rel="icon" type="image/png" href="/images/blue-sun.png">
