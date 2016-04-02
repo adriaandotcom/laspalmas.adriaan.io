@@ -14,3 +14,14 @@ I rented a bigger appartment with 2 bedrooms, and had some interesting comments 
 Then old people story on reddit. Invest in experiences and not in product. I think those experences are with fun people around you, so make it easy to have your friend over.
 
 My mother was a little protective, like maybe this extra space does not make people come over...
+
+Sometimes it is hard to choose between this...
+
+![](/images/posts/between-marketeers-developers-and-happiness-people/beach.jpg)
+
+... and my thesis
+
+![](/images/posts/between-marketeers-developers-and-happiness-people/thesis.jpg)
+
+but the reward will be huge :smiley:
+
