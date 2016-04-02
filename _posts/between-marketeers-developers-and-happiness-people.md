@@ -1,5 +1,6 @@
 ---
 title: Between marketeers, developers and happiness people
+featured_image: '/images/posts/between-marketeers-developers-and-happiness-people/beach.jpg'
 ---
 
 <!-- Audience: people from home, people who are interested in moving here -->
