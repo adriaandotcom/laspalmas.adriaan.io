@@ -20,6 +20,6 @@ So the income is stable and I have a place to work, now it is time to find an ap
 
 Just before my move to Las Palmas I got the opportunity to see this great view. The contrast will be high in temperature, but in beauty hopefully not :smirk:
 
-<div><img src="/images/before-i-go/me-in-val-thorans.png"></div>
+<div><img src="/images/posts/before-i-go/me-in-val-thorans.png"></div>
 
 For the people who say *"Wow, that you have the possibilities!"*, you are wrong! Everyone has those options, you can choose how you fill your life. I truly believe there **are** people who can live fine by working at the same job for some years in the same city as they were born, but please, everyone has the opportunitie to do something else. So it is not great that I'm doing it, everyone can do it. I have the same respect for the people who can do the opposite.
