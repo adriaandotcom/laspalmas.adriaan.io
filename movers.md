@@ -22,7 +22,7 @@ I just copy pasted the pinned post of the [*Gran Canaria Digital Nomads*-group](
 * [Taxes](https://www.facebook.com/groups/201877786658754/permalink/299332983579900/)
 * [Accounting](https://www.facebook.com/groups/201877786658754/permalink/495765700603293/)
 * [Meetups](http://www.meetup.com/gran-canaria-digital-nomads/)
-* [SIM card with mobile data:](https://www.facebook.com/groups/201877786658754/permalink/383069151872949/)
+* [SIM card with mobile data](https://www.facebook.com/groups/201877786658754/permalink/383069151872949/)
 * [Global startupl](https://www.facebook.com/groups/201877786658754/permalink/375588975954300)
 * [Send packages](https://www.facebook.com/groups/201877786658754/permalink/399804570199407/)
 * [Hiking](https://www.facebook.com/groups/201877786658754/permalink/487788338067696/?comment_id=487873871392476&reply_comment_id=487896531390210&notif_t=group_comment)
@@ -44,7 +44,9 @@ There are a lot of websites, but I got these from the locals.
 * [vibbo.com/pisos/](http://www.vibbo.com/pisos/) (was [segundamano.es](http://www.segundamano.es))
 
 ### Stay connected
-There a nice [deal of vodafone](http://www.vodafone.es/tienda/particulares/es/catalogo/ficha/prepago/movil/tarjeta/sim_vodafone_internacional_smartphone/) where you can have some international phonecalls. 60 minutes for 15 euro's. You can also try [worldsim](https://www.worldsim.com/international-sim-cards).
+I use [Orange SIM Mundo 2GB](http://www.simmundo.es/) and I'm pretty happy about it. It is a pay-as-you-go contract, so you just put money on it and you can use 2GB per month for €15,-. Call to other Mondo clients are free (if you charged in the last 30 days) and calling to mobile phones in The Netherlands is around €0,13 per minute. Most people here are saying this is a great deal. 
+
+There is also a [deal from vodafone](http://www.vodafone.es/tienda/particulares/es/catalogo/ficha/prepago/movil/tarjeta/sim_vodafone_internacional_smartphone/) where you can have some international phonecalls. 60 minutes for 15 euro's. I don't think it is better then the Orange one.
 
 ### Social security number
 
