@@ -48,7 +48,7 @@ There are a lot of websites, but I got these from the locals.
 It is also pretty easy to just come here and ask around. The first 2 weeks I was offered 3 places to stay, so it is not that hard.
 
 ### Stay connected
-I use [Orange SIM Mundo 2GB](http://www.simmundo.es/) and I'm pretty happy about it. It is a pay-as-you-go contract, so you just put money on it and you can use 2GB per month for €15,-. Call to other Mondo clients are free (if you charged in the last 30 days) and calling to mobile phones in The Netherlands is around €0,13 per minute. Most people here are saying this is a great deal. 
+I use [Orange SIM Mundo 2GB](http://www.simmundo.es/) and I'm pretty happy about it. It is a pay-as-you-go contract, so you just put money on it and you can use 2GB per month for € 15,-. Calls to other Mondo clients are free (if you charged in the last 30 days) and calling to mobile phones in The Netherlands is around € 0,13 per minute. Most people here are saying this is a great deal. 
 
 There is also a [deal from vodafone](http://www.vodafone.es/tienda/particulares/es/catalogo/ficha/prepago/movil/tarjeta/sim_vodafone_internacional_smartphone/) where you can have some international phonecalls. 60 minutes for 15 euro's. I don't think it is better then the Orange one.
 
