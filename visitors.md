@@ -8,6 +8,11 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
 
 <p class="visitors-last-updated"></p>
 
+## Bus from Airport to my place
+
+You need bus **line 60** from Aeropuerto to **Parque de Santa Catalina, Las Palmas** (I think it is the last stop). This public transport route is not available in Google Maps, so just look for bus 60 and you will be okay. It will cost you € 2.85, so bring some cash. If you step out of the bus, call me to say hello. It is al walking distance from there.
+
+
 ![Sunset that did not happen](/images/no-sunset.jpg)
 
 <script type="text/javascript">
