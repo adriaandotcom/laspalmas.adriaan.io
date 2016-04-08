@@ -24,7 +24,7 @@ It was one of the reasons, indeed. I got an oversized appartment with 3 bedrooms
 
 As I wanted to start defending my choice, a recently red article announced itself in my head. The article had some impact on me, it was a summary of a [reddit topic](https://www.reddit.com/r/AskReddit/comments/1mw2mo/60_year_old_redditors_what_advicetips_would_you/) with tips of 60+ year old people for younger people. One of the tips was: "Don't invest in products, invest in experences." I loved that one, for some people hard to believe maybe, but it really hit me. So I explained that I now could invite friends that whould otherwise not come to Las Palmas and experience the island together. And I strongly believe that in a later stadium of my life, those things are the things I will remember.
 
-<div><img src="/images/posts/living-the-life/tell-the-duck.jpg"></div>
+<div><img src="/images/posts/living-the-life/back-at-goldrepublic.jpg"></div>
 
 In my previous blog post I mentioned that GoldRepublic was not flexible enough to keep me there, but they proved quite differently. I got a call from Stefanie __(my favorite ex-colleague)__ asking me if I was willing to fly to Amsterdam and help them a few days to launch the project I had worked on. That is pretty cool, so I turned the *YOLO*-mode on and here I am, sitting on an airplane to Amsterdam. Thanks to Marleen & Stefanie!
 
