@@ -1,5 +1,5 @@
 ---
-featured_image: '/images/posts/living-the-life/tell-the-duck.jpg'
+featured_image: '/images/posts/living-the-life/back-at-goldrepublic.jpg'
 ---
 
 Moving to Las Palmas is maybe one of the best things I ever did. I was a little affraid of getting the same experience as the one time I moved to Utrecht. Together with a good friend we had a nice startup there, but the city(-life) itself was quite disappointing. Not that we lived in the best neighbourhood :smile: This article is again in English and yes I'm still dyslectic, so feel free to fix my grammer on GitHub.
