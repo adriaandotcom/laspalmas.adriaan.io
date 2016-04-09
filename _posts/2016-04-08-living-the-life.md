@@ -18,7 +18,7 @@ Well, the cool people of the workingspace work in the basement, there are no win
 
 Well, I still have to do the some thing as I did in Amsterdam; the thesis. Oh man, what a celebration will it be when I have my diploma. It becomes a red line in my life and I hope it ends soon. But okay, this is not very Las Palmas related, so one last time, what else?
 
-Sometimes I mis having beers with my fiends. Getting to know new people is cool, but also a little exhousting. I'm glad I choose to stay there for a minimum of 6 months because then you can really make friends. But missing friends, isn't that on of the reasons why you moved to a cheap flight destination?
+Sometimes I mis having beers with my fiends. Getting to know new people is cool, but also a little exhausting. I'm glad I choose to stay there for a minimum of 6 months because then you can really make friends. But missing friends, isn't that on of the reasons why you moved to a cheap flight destination?
 
 It was one of the reasons, indeed. I got an oversized appartment with 3 bedrooms, plenty of place to host friends. A friend was asking me, why do you spent this money on an appartment while you also could pay 50% less for a place you share with other people.
 
