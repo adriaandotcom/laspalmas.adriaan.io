@@ -8,6 +8,8 @@ Because Las Palmas is quite popular there are some people visiting. That is grea
 
 <p class="visitors-last-updated"></p>
 
+I will stay in Las Palmas until the end of August 2016. After that I have a roadtrip planned for a month. After the roadtrip I'll fly to Amsterdam and probably stay there for a month. In that month I can decide on going back to Las Palmas or maybe some other place.
+
 ## Bus from Airport to my place
 
 You need bus [line 60](http://www.globalsu.net/lineas/linea60.pdf) from Aeropuerto to [Parque de Santa Catalina, Las Palmas](https://www.google.es/maps/place/Parque+de+Santa+Catalina/@28.1405116,-15.4328237,17z/data=!3m1!4b1!4m2!3m1!1s0xc40953ff404d0b9:0x1ef2945b25e43e47) (I think it is the last stop). This public transport route is not available in Google Maps, so just look for bus 60 and you will be okay. It will cost you € 2.85, so bring some cash. If you step out of the bus, call me to say hello. It is al walking distance from there.
