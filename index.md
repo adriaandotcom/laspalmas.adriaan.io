@@ -20,7 +20,7 @@ There are a lot reasons to go to this nice Island, like the temperature, distanc
 
 Or Gran Canaria for that matter. Watch <a href="https://www.youtube.com/watch?v=3-IT-LJvAPA" target="_blank">this video</a>.
 There are different areas for different activities. I live in Las Palmas which is in the North of Gran Canaria.
-I has less sun and has some more rain, but the locals are all living there. Nearly half (45.9%) of the people of the island and 18.35% of all inhabitants of the Canary Islands live in this city <sup>[wiki](https://en.wikipedia.org/wiki/Las_Palmas)</sup>.
+It has less sun and has some more rain, but the locals are all living there. Nearly half (45.9%) of the people of the island and 18.35% of all inhabitants of the Canary Islands live in this city <sup>[wiki](https://en.wikipedia.org/wiki/Las_Palmas)</sup>.
 The island is about 100 km<sup>2</sup>. Not so big, compared to the Dutch island [Texel](https://en.wikipedia.org/wiki/Texel) with its 160 km<sup>2</sup>.
 
 Las Palmas is the largest city of the EU lying outside the European Continent. It is located in the northeast part of the Spanish island of Gran Canaria, about 150 kilometres off the northwestern coast of Africa within the Atlantic Ocean.
