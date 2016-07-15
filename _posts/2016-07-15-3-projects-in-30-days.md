@@ -2,13 +2,13 @@
 featured_image: '/images/posts/3-projects-in-30-days/new-plan.jpg'
 ---
 
-Working 3 days so I could use the other 4 days to fill up with my own projects. I'm not doing that. And I'm going to change that now. While being on the beach yesterday I realised I didn't do my own projects anymore and kept postponing those. There are lots of reasons for it like working as a freelancer, going to the beach, sleeping until 12:00, ….
-
-My [LinkedIn profile](https://linkedin.com/in/adriaanvanrossum) reads this:
+Once in a while it is a good idea to set your goals and clear your mind. For me that day was yesterday. In Las Palmas you do this by going to the beach, swim a few times, get a beer and get brown in the sun. On of the things that came up was the reason why I did go to Las Palmas (or abroad). It reminded me of my LinkedIn profile I wrote in the time I wanted to move to Las Palmas. My [LinkedIn profile](https://linkedin.com/in/adriaanvanrossum) reads this:
 
 > I moved to Las Palmas where I can be creative, enjoy the perfect weather and can work on cool projects too. I prefer working 3 days a week as the other projects fill up the rest of the week.
 
-This was one the reasons to go abroad, so how to change this? I calculated the amount of days I have until the end of the year. It shows me I have 2,5 months of not crazy friends around or roadtripp'n:
+It says: working 3 days so I could use the other 4 days to fill up with my own projects. I'm not doing that. And I'm going to change that now. While being on the beach yesterday I realised I didn't do my own projects anymore and kept postponing those. There are lots of reasons for it like working as a freelancer, going to the beach, sleeping until 12:00, ….
+
+So how to change this? I calculated the amount of days I have until the end of the year. It shows me I have 2,5 months of not crazy friends around or roadtripp'n:
 
 <div><img src="/images/posts/3-projects-in-30-days/new-plan.jpg"></div>
 
