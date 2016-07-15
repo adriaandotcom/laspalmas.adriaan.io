@@ -2,7 +2,7 @@
 featured_image: '/images/posts/3-projects-in-30-days/new-plan.jpg'
 ---
 
-Working 3 days so I could use the other 4 days to fill up with my own projects. I'm not doing that. And I'm going to change that now. While being on the beach yesterday I realized I didn't do my own projects anymore and kept postponing those. There are lots of reasons for it like working as a freelancer, going to the beach, sleeping untill 12:00, ….
+Working 3 days so I could use the other 4 days to fill up with my own projects. I'm not doing that. And I'm going to change that now. While being on the beach yesterday I realised I didn't do my own projects anymore and kept postponing those. There are lots of reasons for it like working as a freelancer, going to the beach, sleeping until 12:00, ….
 
 My [LinkedIn profile](https://linkedin.com/in/adriaanvanrossum) reads this:
 
