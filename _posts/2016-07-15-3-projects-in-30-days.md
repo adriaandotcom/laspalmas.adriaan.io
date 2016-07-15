@@ -2,7 +2,9 @@
 featured_image: '/images/posts/3-projects-in-30-days/new-plan.jpg'
 ---
 
-Once in a while it is a good idea to set your goals and clear your mind. For me that day was yesterday. In Las Palmas you do this by going to the beach, swim a few times, get a beer and get brown in the sun. On of the things that came up was the reason why I did go to Las Palmas (or abroad). It reminded me of my LinkedIn profile I wrote in the time I wanted to move to Las Palmas. My [LinkedIn profile](https://linkedin.com/in/adriaanvanrossum) reads this:
+Once in a while it is a good idea to set your goals and clear your mind. For me that day was yesterday. In Las Palmas you do this by going to the beach, swim a few times, get a beer and get brown in the sun. On of the things that came up was the reason why I did go to Las Palmas (or abroad). It reminded me of my LinkedIn profile I wrote in the time I wanted to move to Las Palmas.
+
+My [LinkedIn profile](https://linkedin.com/in/adriaanvanrossum) reads this:
 
 > I moved to Las Palmas where I can be creative, enjoy the perfect weather and can work on cool projects too. I prefer working 3 days a week as the other projects fill up the rest of the week.
 
