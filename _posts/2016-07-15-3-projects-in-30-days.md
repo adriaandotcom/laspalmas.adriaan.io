@@ -21,6 +21,7 @@ If you work 3 days a week you can reserve 3 days per week for your other project
 For the critical people (like myself): I know there are more weeks in a month, but 30 days sounds nice. I will do 3 projects of 10 days each in those 30 days. It is not about a pixel perfect (which I probably find hard) app or website, but it will be a simple **(live) version** of every project.
 
 To make it official, here are the 3 deadlines:
+
  - Project I - August, 6th
  - Project II - October, 13th
  - Project III - November, 4th
