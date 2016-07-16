@@ -28,4 +28,4 @@ To make it official, here are the 3 deadlines:
  - Project II - October, 13th
  - Project III - November, 4th
  
-In the next blog I will go into the first project.
+In the next blog I will write more about the first project.
