@@ -16,6 +16,6 @@ Both Natasha and Miglė suggested to use the [Pomodoro technique](http://pomodor
 5. Take a short break
 6. Every 4 Pomodoro, take a longer break
 
-And if you replace Pomodoro timer with a regular timer, you are good to go (otherwise you have to buy expensive timers with their company name on it). I you just want to start now and you don't have a timer around, there are plenty of online options. If you [Google](https://www.google.com/search?q=timer+25+minutes) for `timer 25 minutes`, you will have a simple timer. If you want something more geeky you can use [e.ggtimer.com](http://e.ggtimer.com/), it even has a [Pomodoro timer](http://e.ggtimer.com/pomodoro)!
+If you replace "Pomodoro" with "timer", you are good to go (otherwise you have to buy expensive timers with their company name on it). I you just want to start now and you don't have a timer around, there are plenty of online options. If you [Google](https://www.google.com/search?q=timer+25+minutes) for `timer 25 minutes`, you will have a simple timer. If you want something more geeky you can use [e.ggtimer.com](http://e.ggtimer.com/), it even has a [Pomodoro timer](http://e.ggtimer.com/pomodoro)!
 
 I was thinking of broadcasting it, but it would be to boring to watch: some guys that are working behind a computer. So I'm not going to do that, but I hope to microblog a little on twitter: [@harianus](https://twitter.com/harianus). Stay tuned!
