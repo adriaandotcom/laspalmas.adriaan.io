@@ -5,7 +5,7 @@ In [the previous blog post](https://laspalmas.adriaan.io/work-24-hours-in-two-da
 
 I like to do some more extreme things, like I did with [demaandvanadriaan.nl](https://demaandvanadriaan.nl/) (in Dutch). Tomorrow I will work for 24 hours straight. I also found a worrier in this battle: Chace (my roommate). Our goal is to get a shitload done in those 24 hours. We'll work the full Thursday, which will start at 12 a.m. until 12 p.m.
 
-![](/images/)
+![](/images/posts/work-24-hours-straight/pomodoro.jpg)
 
 Both Natasha and Miglė suggested to use the Pomodoro technique. This technique has the following fundamentals:
 
