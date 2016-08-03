@@ -7,7 +7,7 @@ I like to do some more extreme things, like I did with [demaandvanadriaan.nl](ht
 
 ![](/images/posts/work-24-hours-straight/pomodoro.jpg)
 
-Both Natasha and Miglė suggested to use the Pomodoro technique. This technique has the following fundamentals:
+Both Natasha and Miglė suggested to use the [Pomodoro technique](http://pomodorotechnique.com/). This technique has the following fundamentals:
 
 1. Choose a task you'd like to get done
 2. Set the Pomodoro for 25 minutes
