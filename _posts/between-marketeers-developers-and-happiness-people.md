@@ -12,9 +12,9 @@ And some Erasmus students, bloggers and other creatives. The kind of people Las 
 
 For the people at home: [comfortzonecrusher.com](http://www.comfortzonecrusher.com)
 
-I rented a bigger appartment with 2 bedrooms, and had some interesting comments on it. Christian was saying, why are you spending this money on this appartment if you can get something cheaper. 
+I rented a bigger apartment with 2 bedrooms, and had some interesting comments on it. Christian was saying, why are you spending this money on this apartment if you can get something cheaper.
 
-Then old people story on reddit. Invest in experiences and not in product. I think those experences are with fun people around you, so make it easy to have your friend over.
+Then old people story on reddit. Invest in experiences and not in product. I think those experiences are with fun people around you, so make it easy to have your friend over.
 
 My mother was a little protective, like maybe this extra space does not make people come over...
 
@@ -27,4 +27,3 @@ Sometimes it is hard to choose between this...
 ![](/images/posts/between-marketeers-developers-and-happiness-people/thesis.jpg)
 
 but the reward will be huge :smiley:
-
