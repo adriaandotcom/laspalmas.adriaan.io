@@ -1,5 +1,6 @@
 ---
 title: Living in Las Palmas for half a year
+featured_image: '/images/posts/living-in-las-palmas-for-half-a-year/guigui.jpg'
 ---
 
 In this blog post I will explain the lessons learned form my half year living abroad. I write in English so my foreign friends can read it as well and my Dutch friends read and write better than I do, so they will be fine. It is not my native language so feel free to correct my grammar with the top right button *(on GitHub)*.
