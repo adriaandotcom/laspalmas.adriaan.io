@@ -22,6 +22,8 @@ The funny thing about going abroad in the summer usually means that the place yo
 
 <div><img src="/images/posts/living-in-las-palmas-for-half-a-year/guigui.png"></div>
 
+It does not feel like the end of something, it feels more like the start. To be continued...
+
 ## Thanks to
 
 I want to thank Sander for making this possible. While a lot of tech companies have a remote friendly company culture, it's is quite rare in the Netherlands. A lot of companies just require you to be in the office. With Sander supporting me I probably will expand this adventure into other parts of the world.
@@ -30,14 +32,4 @@ Next in line is Marleen, she is the founder of GoldRepublic and Nxchange. They f
 
 ## So what are you next plans?
 
-At the moment I'm in Amsterdam and I'm planing to stay here for two months.
-
-It does not feel like the end of something, it feels like the start. To be continued...
-
-
-
-
-
-
-
-.
+At the moment I'm in Amsterdam and I'm planing to stay here for two months. While I'm here I will try to buy a house somewhere in the center. My budget is € 275.000,- so if you hear something, give me a ping.
