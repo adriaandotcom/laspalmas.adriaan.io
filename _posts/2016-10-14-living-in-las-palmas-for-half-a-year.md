@@ -8,7 +8,7 @@ Before going into all the things I learned while living in Las Palmas I want to 
 
 The most amazing things I did where the trips to hidden beaches and riding a motorbike on the island. It was so beautiful...
 
-<div><img src="/images/posts/living-in-las-palmas-for-half-a-year/view-while-on-the-bike-tour.png"></div>
+<div><img src="/images/posts/living-in-las-palmas-for-half-a-year/view-while-on-the-bike-tour.jpg"></div>
 
 ## What did you learn?
 
@@ -18,7 +18,7 @@ Next to learning about living I also learned how to travel in a practical manner
 
 The funny thing about going abroad in the summer usually means that the place you go to has a winter like climate. I made "the mistake" to leave in the summer. In the summer it's often cloudy in Las Palmas. They even have a name for it: the *Donkey belly*. You know it's for real when they are making up names for it. So next time I will check a little better what the weather will be at my new destination.
 
-<div><img src="/images/posts/living-in-las-palmas-for-half-a-year/guigui.png"></div>
+<div><img src="/images/posts/living-in-las-palmas-for-half-a-year/guigui.jpg"></div>
 
 It does not feel like the end of something, it feels more like the start. To be continued...
 
