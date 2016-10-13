@@ -2,8 +2,6 @@
 title: Living in Las Palmas for half a year
 ---
 
-# Living in Las Palmas for half a year
-
 In this blog post I will explain the lessons learned form my half year living abroad. I write in English so my foreign friends can read it as well and my Dutch friends read and write better than I do, so they will be fine. It is not my native language so feel free to correct my grammar with the top right button *(on GitHub)*.
 
 Before going into all the things I learned while living in Las Palmas I want to go into the first blog post I wrote on this subject. *Before I Go*, you can read it [here](/before-i-go). I wasn't going to Las Palmas to find a great new future, but I kind of found a great of living my life. Now I just can go anywhere in the world and explore which the knowledge that it will be alright. Maybe for a year, maybe for a few years, maybe forever, either way this is how want to live now.
